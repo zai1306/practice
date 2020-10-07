@@ -1,1 +1,3 @@
 file three
+
+added into third file
